@@ -92,7 +92,9 @@ This project is a tribute to the lives affected by COVID-19 and aims to provide 
 
 | Map View (Deaths by State) | Trend Line View (Cases Over Time) |
 |----------------------------|----------------------------|
-| ![Map](assets/map_view.png) | ![Trend](assets/line_chart.png) |
+| ![MAP Total deaths by state](https://github.com/user-attachments/assets/517d3520-aac3-4516-9721-6e85c0e52e30)
+ | ![Covid Cases By State](https://github.com/user-attachments/assets/776c5b3d-c038-46fa-a719-c09a80b1d803)
+ |
 
 > *(Note: Replace the above placeholder image paths with real screenshots from your project in an `assets/` folder in your repo.)*
 
