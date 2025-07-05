@@ -96,7 +96,6 @@ This project is a tribute to the lives affected by COVID-19 and aims to provide 
  | ![Covid Cases By State](https://github.com/user-attachments/assets/776c5b3d-c038-46fa-a719-c09a80b1d803)
  |
 
-> *(Note: Replace the above placeholder image paths with real screenshots from your project in an `assets/` folder in your repo.)*
 
 ---
 
@@ -108,7 +107,3 @@ Graduate Student | Data Analyst | Tableau & Python Enthusiast
 🔗 [LinkedIn](https://www.linkedin.com/in/jeevankumarbanoth) | [GitHub](https://github.com/jeevanbanoth)
 
 ---
-
-## 📜 License
-
-This project is open-source and free to use under the MIT License.
