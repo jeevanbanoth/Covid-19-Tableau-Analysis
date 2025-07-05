@@ -7,7 +7,8 @@ The dashboard aims to highlight key insights such as:
 - Variation in vaccination rates by state
 - Correlation between vaccination coverage and case/death counts
 - Temporal patterns in confirmed, recovered, and fatal cases
-![image](https://github.com/user-attachments/assets/84c5865f-3a4f-4299-be6a-d2ab16d088ac)
+![Dashboard Final](https://github.com/user-attachments/assets/f8dadaca-9a7d-4e22-bf1b-3913a84dd591)
+
 
 ---
 
