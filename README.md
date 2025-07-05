@@ -1,5 +1,7 @@
 # 🦠 COVID-19 India Data Analysis Dashboard (Tableau)
 
+## Interactive dashboard: https://us-east-1.online.tableau.com/t/jeevanrishi0-dc0d2712a1/views/Project_Final_Viz_JeevanKumar/Dashboard
+## Data story link: https://us-east-1.online.tableau.com/t/jeevanrishi0-dc0d2712a1/views/Datastory/DataStory
 ## Overview
 This Tableau project explores COVID-19 trends in India using a detailed dataset that includes confirmed cases, recoveries, deaths, and vaccination rates across various states. The project emphasizes **visual storytelling** with a somber and respectful black-themed design, representing the seriousness and human cost of the pandemic.
 
